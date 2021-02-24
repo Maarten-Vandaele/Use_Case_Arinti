@@ -1,5 +1,23 @@
-# EWS-regression
+# EWS-regression Time series analysis
 
+## Introduction
+As a use case in the Becode AI course we were given a time series dataset containing measurements of patients with accompanying EWS scores. The idea is to be able to predict new EWS scores in the short term future.
+An EWS Total score, or Early Warning Sign total score, is used to gauge a patients condition at a certain point in time.
+
+
+## Technologies
+
+Pandas
+Matplotlib
+Arima
+
+## Participants
+Nicolas Demuynk
+Santiago Astete
+Sanjay Jonckheere
+Maarten Vandaele
+
+## Workflow
 ## Day 1: 4th of Jan 2021
 
 - Data preprocessing + narrow down dataframe on patient level (with the most observations)
